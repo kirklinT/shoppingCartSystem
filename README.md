@@ -16,3 +16,4 @@
 #### -Product review / rating a product
 #### -Administration page
 
+![Payment Page](checkout2.png)
